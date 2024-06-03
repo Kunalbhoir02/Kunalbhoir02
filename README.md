@@ -1,6 +1,3 @@
-To enhance the attractiveness and animation of your introduction, consider adding CSS animations and visual enhancements. Below is a revamped version of your introduction with added animations and a cleaner layout.
-
-```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -62,7 +59,9 @@ To enhance the attractiveness and animation of your introduction, consider addin
 <body>
   <h1>Hi there! I'm Kunal Bhoir, a dedicated Full-Stack Web Developer passionate about creating seamless user experiences and robust backend solutions. With expertise in both front-end and back-end technologies, I enjoy building dynamic and responsive web applications.</h1>
 
-  <img class="typing-svg" src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=A+dedicated+Full-Stack+Web+Developer;Passionate+about+creating+seamless+user+experiences;Building+robust+backend+solutions;Expert+in+both+front-end+and+back-end+technologies;Enjoy+building+dynamic+and+responsive+web+applications" alt="Typing SVG">
+  <p align="center">
+    <img class="typing-svg" src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=A+dedicated+Full-Stack+Web+Developer;Passionate+about+creating+seamless+user+experiences;Building+robust+backend+solutions;Expert+in+both+front-end+and+back-end+technologies;Enjoy+building+dynamic+and+responsive+web+applications" alt="Typing SVG">
+  </p>
 
   <div class="github-trophies">
     <h2>🏆 GitHub Trophies</h2>
@@ -112,4 +111,10 @@ To enhance the attractiveness and animation of your introduction, consider addin
       <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
       <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="Amazon DynamoDB">
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      <!-- Add more badges as necessary -->
+    </p>
+  </div>
+</body>
+
+</html>
