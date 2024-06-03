@@ -1,4 +1,3 @@
-# About Me:
 **<h1 align="center">Hi there! I'm Kunal Bhoir, a dedicated Full-Stack Web Developer passionate about creating seamless user experiences and robust backend solutions. With expertise in both front-end and back-end technologies, I enjoy building dynamic and responsive web applications.</h1>**
 
 <p align="center">
