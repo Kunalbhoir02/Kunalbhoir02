@@ -9,7 +9,8 @@
 
   <div class="github-trophies">
     <h2>🏆 GitHub Trophies</h2>
-    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=Kunalbhoir02(https://github.com/ryo-ma/github-profile-trophy)">
+    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=Kunalbhoir02)](https://github.com/ryo-ma/github-profile-trophy)
+">
   </div>
 
   <div class="github-stats">
